@@ -5,9 +5,11 @@ A new Flutter project.
 ## Getting Started
 
 simple watsup ui, re usable widgets and listview builder and tab bar
-![](images/pic.png)
 
+<center>
+  ![](images/pic.png)
 
+</center>
 
 
 
