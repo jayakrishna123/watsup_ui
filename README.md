@@ -2,13 +2,20 @@
 
 A new Flutter project.
 
-## Getting Started
 
-simple watsup ui, re usable widgets and listview builder and tab bar
+. simple watsup ui 
+. re usable widgets 
+. listview builder 
+. tab bar
+. networkimage
+
 
   ![](images/pic.png)
 
 <br>
+  ![](images/pic2.png)
+  <br>
+  ![](images/pic3.png)
 
 
 This project is a starting point for a Flutter application.
