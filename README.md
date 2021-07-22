@@ -12,10 +12,11 @@ A new Flutter project.
 
   ![](images/pic.png)
 
-<br>
-  ![](images/pic2.png)
   <br>
-  ![](images/pic3.png)
+  <img src="images/pic2.png">
+  <br>
+   <img src="images/pic3.png">
+  )
 
 
 This project is a starting point for a Flutter application.
